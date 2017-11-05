@@ -1,0 +1,6 @@
+mylanding.sublime-project
+node_modules
+npm-debug.log
+.DS_Store
+.idea/
+build
