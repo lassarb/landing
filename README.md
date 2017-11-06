@@ -14,16 +14,18 @@
 
 >node -v
 
->v8.9.0
+> v8.9.0
 
->npm -v
+> npm -v
 
->5.5.1
+> 5.5.1
 
 * Убедиться,что установлен Gulp 4 версии,так как, если меньше -
 работать не будет
 
->gulp -v
+> gulp -v
+
+> npm install gulpjs/gulp-cli#4.0 -g
 
 # Uninstall previous Gulp installation and related packages, if any
 > $ npm rm gulp -g

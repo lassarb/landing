@@ -1,8 +1,8 @@
 {
   "name": "mylandening",
   "version": "1.0.0",
-  "description": "Стартовая страница сайта",
-  "main": "index.js",
+  "description": "## Перед стартом пакета необходимо:",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/lassarb/landing.git"
   },
-  "author": "lara",
+  "author": "larax",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lassarb/landing/issues"
@@ -21,5 +21,7 @@
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-pug": "^3.3.0",
     "gulp-sass": "^3.1.0"
-  }
+  },
+  "dependencies": {},
+  "optionalDependencies": {}
 }

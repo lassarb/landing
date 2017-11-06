@@ -4,7 +4,6 @@ const pug = require('gulp-pug');
 const sass = require('gulp-sass');
 
 
-
 /* -------- Server  -------- */
 gulp.task('server', function() {
   browserSync.init({
