@@ -76,3 +76,9 @@
 
  > npm install gulp-pug gulp-sass --save-dev
 
+ > npm i gulp.spritesmith --save-dev
+
+ > npm install rimraf --save-dev (для очистки)
+
+ > npm install gulp-rename
+
